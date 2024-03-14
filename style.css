@@ -60,5 +60,7 @@
     .tv8 {grid-row:span 8;}
     .tv9 {grid-row:span 9;}
     .tv10 {grid-row:span 10;}
+    .tv11{grid-row: span 11;}
+    .tv12{grid-row: span 12;}
 
 }
